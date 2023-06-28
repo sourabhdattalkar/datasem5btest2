@@ -1,0 +1,1 @@
+print("We are indians and always give most time to gossips")
